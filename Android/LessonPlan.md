@@ -2,7 +2,7 @@
 ## Week 1
 1. [Android Official](https://developer.android.com/courses/android-basics-compose/course)
     * [Unit 1](https://developer.android.com/courses/android-basics-compose/unit-1)
-        1. Inro to Kotlin
+        1. Intro to Kotlin
         2. Setup Android Studio
         3. Build a basic layout
 2. Lackner - Kotlin
