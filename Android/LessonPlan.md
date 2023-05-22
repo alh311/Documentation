@@ -1,5 +1,21 @@
 # Lesson Plan
 
+## Week 4 (5/22 - 5/29)
+* [Android Official](https://developer.android.com/courses/android-basics-compose/course)
+    * [Unit 3: Pathway 1](https://developer.android.com/courses/pathways/android-basics-compose-unit-3-pathway-1)
+* Lackner - Compose
+    * [Video 7](https://www.youtube.com/watch?v=_yON9d9if6g&list=PLQkwcJG4YTCSpJ2NLhDTHhi6XBNfk9WiC&index=7): Textfields, Buttons & Showing Snackbars
+    * [Video 8](https://www.youtube.com/watch?v=1Thp0bB5Ev0&list=PLQkwcJG4YTCSpJ2NLhDTHhi6XBNfk9WiC&index=8): Lists
+    * [Video 9](https://www.youtube.com/watch?v=FBpiOAiseD0&list=PLQkwcJG4YTCSpJ2NLhDTHhi6XBNfk9WiC&index=9): ConstraintLayout
+    * [Video 10](https://www.youtube.com/watch?v=gxWcfz3V2QE&list=PLQkwcJG4YTCSpJ2NLhDTHhi6XBNfk9WiC&index=10): Full Guide to Jetpack Compose Effect Handlers
+    * [Video 11](https://www.youtube.com/watch?v=trVmP1rw0uw&list=PLQkwcJG4YTCSpJ2NLhDTHhi6XBNfk9WiC&index=11): Simple Animations
+
+> **Note:** Pay extra close attention to _Lists_ and _ConstraintLayout_.
+
+> **Recommendation:** This is the last pathway focusing on Kotlin (thank goodness!).  As dry as it might be, this is an important one and should take priority so we can get it behind us.  I also recommend spacing out the Lackner Compose videos through the week since they are the only Compose we'll get this week.  I'm hoping this week is light, but if anything needs to drop, it should be the _Effect Handlers_ and _Animations_ videos.
+
+<br />
+
 ## Week 3 (5/15 - 5/22)
 * [Android Official](https://developer.android.com/courses/android-basics-compose/course)
     * [Unit 2: Pathway 2](https://developer.android.com/courses/pathways/android-basics-compose-unit-2-pathway-2)
@@ -57,3 +73,5 @@
     * [Video 4](https://www.youtube.com/watch?v=HLvRzBjx7hk&list=PLQkwcJG4YTCRSQikwhtoApYs9ij_Hc5Z9&index=4): VAR, VAL, INTEGER, BOOLEAN
 3. Lackner - Compose
     * [Video 1](https://www.youtube.com/watch?v=cDabx3SjuOY&list=PLQkwcJG4YTCSpJ2NLhDTHhi6XBNfk9WiC): Creating Your First Jetpack Compose App
+
+<br />
