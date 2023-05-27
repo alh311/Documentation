@@ -1,5 +1,24 @@
 # Lesson Plan
 
+## Week 5 (5/29 - 6/5)
+* [Android Official](https://developer.android.com/courses/android-basics-compose/course)
+    * [Unit 3: Pathway 2](https://developer.android.com/courses/pathways/android-basics-compose-unit-3-pathway-2)
+    * [Unit 3: Pathway 3](https://developer.android.com/courses/pathways/android-basics-compose-unit-3-pathway-3) - Start if you have time
+* Lackner - Kotlin
+    * [Video 18](https://www.youtube.com/watch?v=HoEX593pd4M&list=PLQkwcJG4YTCRSQikwhtoApYs9ij_Hc5Z9&index=18): VARARG, DEFAULT AND NAMED PARAMETERS
+    * [Video 19](https://www.youtube.com/watch?v=rXJk9Qk8_2U&list=PLQkwcJG4YTCRSQikwhtoApYs9ij_Hc5Z9&index=19): EXTENSION FUNCTIONS
+    * [Video 20](https://www.youtube.com/watch?v=a4-AeT0cVEc&list=PLQkwcJG4YTCRSQikwhtoApYs9ij_Hc5Z9&index=20): CLASSES
+    * [Video 21](https://www.youtube.com/watch?v=Xk3IPNHbLVk&list=PLQkwcJG4YTCRSQikwhtoApYs9ij_Hc5Z9&index=21): INHERITANCE
+    * [Video 22](https://www.youtube.com/watch?v=NQwrHyv96pk&list=PLQkwcJG4YTCRSQikwhtoApYs9ij_Hc5Z9&index=22): VISIBILITY MODIFIERS
+    * [Video 23](https://www.youtube.com/watch?v=ju-LDSDwGC8&list=PLQkwcJG4YTCRSQikwhtoApYs9ij_Hc5Z9&index=23): ABSTRACT CLASSES
+    * [Video 24](https://www.youtube.com/watch?v=OUZifxnrHdc&list=PLQkwcJG4YTCRSQikwhtoApYs9ij_Hc5Z9&index=24): CONSTRUCTOR AND FUNCTION OVERLOADING
+* Lackner - Compose
+    * [Video 12](https://www.youtube.com/watch?v=ZasJB95VBtM&list=PLQkwcJG4YTCSpJ2NLhDTHhi6XBNfk9WiC&index=12): How to Make an Animated Circular Progress Bar
+
+> **Note:** U3P3 will be for next week, but there's a lot of reading in it.  Since U3P2 is so short, it would be good to start U3P3 if you have time.
+
+<br />
+
 ## Week 4 (5/22 - 5/29)
 * [Android Official](https://developer.android.com/courses/android-basics-compose/course)
     * [Unit 3: Pathway 1](https://developer.android.com/courses/pathways/android-basics-compose-unit-3-pathway-1)
