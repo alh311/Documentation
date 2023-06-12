@@ -1,13 +1,30 @@
 # Lesson Plan
 
+## Week 7 (6/12 - 6/19)
+
+* Lackner - Kotlin
+    * [Video 26](https://www.youtube.com/watch?v=1dKsPrEcUFY&list=PLQkwcJG4YTCRSQikwhtoApYs9ij_Hc5Z9&index=26): ANONYMOUS CLASSES
+    * [Video 27](https://www.youtube.com/watch?v=pj7LifbXhPo&list=PLQkwcJG4YTCRSQikwhtoApYs9ij_Hc5Z9&index=27): EXCEPTIONS
+    * [Video 28](https://www.youtube.com/watch?v=wnyN8umZIRM&list=PLQkwcJG4YTCRSQikwhtoApYs9ij_Hc5Z9&index=28): LAMBDA FUNCTIONS
+    * [Video 29](https://www.youtube.com/watch?v=V-3L2TEdJXs&list=PLQkwcJG4YTCRSQikwhtoApYs9ij_Hc5Z9&index=29): GENERICS
+* Git
+    * Sign up for a GitHub account
+    * [Install Sourcetree](https://www.sourcetreeapp.com/) - Sourcetree comes with its own version of git, so no need to install git separately.
+
+> **Note:** This is another light week due to illness and other factors.
+
+
+<br />
+
 ## Week 6 (6/5 - 6/12)
+
+> **Revision:** Due to illness and other factors, we've decided to scrap the AO lessons for this week.
+
 * [~~Android Official~~](https://developer.android.com/courses/android-basics-compose/course)
     * [~~Unit 3: Pathway 3~~](https://developer.android.com/courses/pathways/android-basics-compose-unit-3-pathway-3)
     * [~~Unit 4: Pathway 1~~](https://developer.android.com/courses/pathways/android-basics-compose-unit-4-pathway-1)
 * Lackner - Kotlin
     * [Video 25](https://www.youtube.com/watch?v=2XnDq5pyJcI&list=PLQkwcJG4YTCRSQikwhtoApYs9ij_Hc5Z9&index=25): OBJECTS AND COMPANION OBJECTS
-
-> **Revision:** Due to illness and other factors, we've decided to scrap the AO lessons for this week.
 
 > **Note:** I'm not sure how long U4P1 will take, and the two pathways may take substantial time.  If you run out of time, getting through _ViewModel and State in Compose_ in U4P1 would be ideal (but try to get through all of it).
 
