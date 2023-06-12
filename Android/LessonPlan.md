@@ -1,11 +1,13 @@
 # Lesson Plan
 
 ## Week 6 (6/5 - 6/12)
-* [Android Official](https://developer.android.com/courses/android-basics-compose/course)
-    * [Unit 3: Pathway 3](https://developer.android.com/courses/pathways/android-basics-compose-unit-3-pathway-3)
-    * [Unit 4: Pathway 1](https://developer.android.com/courses/pathways/android-basics-compose-unit-4-pathway-1)
+* [~~Android Official~~](https://developer.android.com/courses/android-basics-compose/course)
+    * [~~Unit 3: Pathway 3~~](https://developer.android.com/courses/pathways/android-basics-compose-unit-3-pathway-3)
+    * [~~Unit 4: Pathway 1~~](https://developer.android.com/courses/pathways/android-basics-compose-unit-4-pathway-1)
 * Lackner - Kotlin
     * [Video 25](https://www.youtube.com/watch?v=2XnDq5pyJcI&list=PLQkwcJG4YTCRSQikwhtoApYs9ij_Hc5Z9&index=25): OBJECTS AND COMPANION OBJECTS
+
+> **Revision:** Due to illness and other factors, we've decided to scrap the AO lessons for this week.
 
 > **Note:** I'm not sure how long U4P1 will take, and the two pathways may take substantial time.  If you run out of time, getting through _ViewModel and State in Compose_ in U4P1 would be ideal (but try to get through all of it).
 
