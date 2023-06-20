@@ -1,5 +1,14 @@
 # Lesson Plan
 
+## Week 8 (6/12 - 6/19)
+
+* [Android Official](https://developer.android.com/courses/android-basics-compose/course)
+    * [Unit 3: Pathway 3](https://developer.android.com/courses/pathways/android-basics-compose-unit-3-pathway-3)
+
+> **Note:** This is another light week due to illness and other factors.
+
+<br />
+
 ## Week 7 (6/12 - 6/19)
 
 * Lackner - Kotlin
