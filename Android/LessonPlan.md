@@ -1,6 +1,16 @@
 # Lesson Plan
 
-## Week 8 (6/12 - 6/19)
+## Week 9 (6/26 - 7/3)
+
+* [Android Official](https://developer.android.com/courses/android-basics-compose/course)
+    * [Unit 3: Pathway 3](https://developer.android.com/courses/pathways/android-basics-compose-unit-3-pathway-3) - FINISH IT!
+    * [Unit 4: Pathway 1](https://developer.android.com/courses/pathways/android-basics-compose-unit-4-pathway-1)
+* Supplemental Reading
+    * [Dependency Injection](https://github.com/ninject/Ninject/wiki/Dependency-Injection-By-Hand) - A nice, short overview to dependency injection (constructor injection, specifically)
+
+<br />
+
+## Week 8 (6/19 - 6/26)
 
 * [Android Official](https://developer.android.com/courses/android-basics-compose/course)
     * [Unit 3: Pathway 3](https://developer.android.com/courses/pathways/android-basics-compose-unit-3-pathway-3)
