@@ -1,5 +1,13 @@
 # Lesson Plan
 
+## Week 11 (7/10 - 7/17)
+
+* [Android Official](https://developer.android.com/courses/android-basics-compose/course)
+    * [Unit 4: Pathway 2](https://developer.android.com/courses/pathways/android-basics-compose-unit-4-pathway-2) - FINISH IT!
+    * [Unit 4: Pathway 3](https://developer.android.com/courses/pathways/android-basics-compose-unit-4-pathway-3) (~13 hours)
+
+<br />
+
 ## Week 10 (7/3 - 7/10)
 
 * [Android Official](https://developer.android.com/courses/android-basics-compose/course)
