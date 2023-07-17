@@ -1,10 +1,16 @@
 # Lesson Plan
 
+## Week 12 (7/17 - 7/24)
+
+* [Android Official](https://developer.android.com/courses/android-basics-compose/course)
+    * [Unit 4: Pathway 3](https://developer.android.com/courses/pathways/android-basics-compose-unit-4-pathway-3) - Skip the automated testing step in the "Build an app with an adaptive layout" codelab.
+
+<br />
+
 ## Week 11 (7/10 - 7/17)
 
 * [Android Official](https://developer.android.com/courses/android-basics-compose/course)
     * [Unit 4: Pathway 2](https://developer.android.com/courses/pathways/android-basics-compose-unit-4-pathway-2) - FINISH IT!
-    * [Unit 4: Pathway 3](https://developer.android.com/courses/pathways/android-basics-compose-unit-4-pathway-3) (~13 hours)
 
 <br />
 
